@@ -1,8 +1,4 @@
-Abstractive text-summarization
-
-
-
-# Text Summarization #
+# Abstractive Text Summarization #
 
 
 
